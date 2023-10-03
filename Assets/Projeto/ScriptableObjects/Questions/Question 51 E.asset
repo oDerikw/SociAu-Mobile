@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9438525f41344b47908075538fc7fd8, type: 3}
+  m_Name: Question 51 E
+  m_EditorClassIdentifier: 
+  question: "Quando voc\xEA est\xE1 triste, o que voc\xEA pode fazer?"
+  category: Sentimentos
+  answers:
+  - Fazer uma atividade que gosta, como desenhar ou ver filmes
+  - Se trancar no quarto sozinho
+  answerRightIndex: 0
+  questionRightDescription: "A tristeza muitas vezes resulta em sentir-se solit\xE1rio,
+    por isso \xE9 importante conversar com algu\xE9m de confia\xE7a e fazer uma atividade
+    que goste."
