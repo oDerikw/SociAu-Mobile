@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9438525f41344b47908075538fc7fd8, type: 3}
+  m_Name: Question 12 H
+  m_EditorClassIdentifier: 
+  question: "Quando voc\xEA sente medo, o que voc\xEA pode fazer?"
+  category: Sentimentos
+  answers:
+  - Fazer xixi na cama
+  - Se esconder
+  - Conversar com os pais ou professora
+  - "Pedir aos pais para n\xE3o sair de casa, aos prantos"
+  answerRightIndex: 2
+  questionRightDescription: "O medo n\xE3o \xE9 sinal de fraqueza.A escrita \xE9
+    uma ferramenta poderosa para organizar os seus pensamentos, emo\xE7\xF5es e medos."

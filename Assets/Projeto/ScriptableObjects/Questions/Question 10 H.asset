@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9438525f41344b47908075538fc7fd8, type: 3}
+  m_Name: Question 10 H
+  m_EditorClassIdentifier: 
+  question: "Quando voc\xEA est\xE1 com raiva, como voc\xEA deve agir?"
+  category: Sentimentos
+  answers:
+  - Ser rude com outra pessoa
+  - Gritar
+  - Respire fundo e procure um local mais calmo
+  - Se machucar
+  answerRightIndex: 2
+  questionRightDescription: "Quando a irrita\xE7\xE3o amea\xE7ar tomar conta, respire
+    fundo para acalmar a mente e tome um copo d'\xE1gua."
